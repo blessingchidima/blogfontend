@@ -1,5 +1,4 @@
 import React from "react";
-// import styled from "styled-components";
 import Header from "../Components/Static/Header";
 import Hero from "./Comp/Hero";
 import PostReviews from "./Comp/PostReviews";
